@@ -1,4 +1,4 @@
-# Nguyễn Thị Thùy — Personal Portfolio
+# Nguyễn Thị Thủy — Personal Portfolio
 
 A visual, editorial-style personal portfolio for GitHub Pages.
 
